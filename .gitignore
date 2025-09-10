@@ -1,0 +1,8 @@
+vendor/
+.bundle/
+.jekyll-cache/
+_site/
+Gemfile.lock
+*.swp
+*.swo
+*~
