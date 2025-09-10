@@ -139,7 +139,7 @@ navigation_footer:
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
+  Twitter: https://twitter.com/DavidDarnes #donthave
   LinkedIn: https://www.linkedin.com/in/jun-chan-hk
   GitHub: https://github.com/elejunphant
   link: https://darn.es
