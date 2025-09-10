@@ -7,7 +7,7 @@ This website is created with the following template - Alembic:
 
 
 ## Contents
-- [About](#about)
+- [About Me](#about)
 - [Features](#features)
 - [Examples](#examples)
 - [Installation](#installation)
@@ -25,8 +25,7 @@ This website is created with the following template - Alembic:
 - [About this template](#About-Alembic---the-template-used-in-this-website)
 
 ## About
-
-**Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate theme is designed to get rolling immediately. Install it, configure it, tweak it, push it.**
+Jun is a student
 
 ## Features
 
@@ -286,6 +285,9 @@ There are some more specific options you can apply when creating a page or a pos
 - Thanks to [pygments-css](http://richleland.github.io/pygments-css/) for the autumn syntax highlighting, by [Rich Leland](https://twitter.com/richleland)
 
 ## About Alembic - the template used in this website
+About
+**Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate theme is designed to get rolling immediately. Install it, configure it, tweak it, push it.**
+
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 ![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
 
