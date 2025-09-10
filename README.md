@@ -22,6 +22,7 @@ This website is created with the following template - Alembic:
 - [Page layouts](#page-layouts)
 - [Page and Post options](#page-and-post-options)
 - [Credits](#credits)
+- [About this template](#About-Alembic---the-template-used-in-this-website)
 
 ## About
 
