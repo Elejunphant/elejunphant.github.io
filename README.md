@@ -1,13 +1,10 @@
 This website is created with the following template - Alembic:
 
 # [My Name: CHAN Jun](https://alembic.darn.es/)
-[![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
+
 
 ⚗ A ECE Student that takes a networking course
 
-![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
-
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
 
 ## Contents
 - [About](#about)
@@ -286,3 +283,9 @@ There are some more specific options you can apply when creating a page or a pos
 - Thanks to [Flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) by [Brian Franco](https://twitter.com/brianfranco)
 - Thanks to [Normalize](https://necolas.github.io/normalize.css/) by [Nicolas Gallagher](https://twitter.com/necolas) and [Jonathan Neal](https://twitter.com/jon_neal).
 - Thanks to [pygments-css](http://richleland.github.io/pygments-css/) for the autumn syntax highlighting, by [Rich Leland](https://twitter.com/richleland)
+
+## About Alembic - the template used in this website
+[![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
+![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
+
+[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
