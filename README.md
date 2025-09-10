@@ -3,7 +3,7 @@ This website is created with the following template - Alembic:
 # [My Name: CHAN Jun](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
-⚗ A ECE Student that takes a newworking course
+⚗ A ECE Student that takes a networking course
 
 ![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
 
